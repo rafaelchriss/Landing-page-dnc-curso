@@ -1,5 +1,3 @@
-Perfeito — você hospedou no **Netlify** (pelo link `.netlify.app`). Aqui vai um README **bonito, simples e profissional**, já com o seu link:
-
 ```md
 # Landing Page (DNC) — Projeto do Curso
 
